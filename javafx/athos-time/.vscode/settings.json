@@ -1,0 +1,17 @@
+{
+	"java.project.sourcePaths": [
+		"src"
+	],
+	"java.project.outputPath": "bin",
+	"java.project.referencedLibraries": [
+		"lib/**/*.jar",
+		"c:/Users/Nkosi/Desktop/java/javafx/lib/javafx.base.jar",
+		"c:/Users/Nkosi/Desktop/java/javafx/lib/javafx.controls.jar",
+		"c:/Users/Nkosi/Desktop/java/javafx/lib/javafx.fxml.jar",
+		"c:/Users/Nkosi/Desktop/java/javafx/lib/javafx.graphics.jar",
+		"c:/Users/Nkosi/Desktop/java/javafx/lib/javafx.media.jar",
+		"c:/Users/Nkosi/Desktop/java/javafx/lib/javafx.swing.jar",
+		"c:/Users/Nkosi/Desktop/java/javafx/lib/javafx.web.jar",
+		"c:/Users/Nkosi/Desktop/java/javafx/lib/javafx-swt.ja"
+	]
+}
